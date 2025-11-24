@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+## Date: 24-11-2025
+## Register Number:212223040003
+## Name: MUKESH A
 ## Problem Title
 SIH 1555: Create a Virtual Herbal Garden that provides an interactive, educational, and immersive experience to users, showcasing the diverse range of medicinal plants used in AYUSH (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy).
 ## Problem Description
@@ -11,16 +11,49 @@ Background: The AYUSH sector relies heavily on medicinal plants and herbs, which
 Ministry of Ayush
 
 ## Idea
-
+To develop a real-time 3D Virtual Herbal Garden Web Application integrated with educational and interactive learning features using immersive technologies such as AR/VR and 3D visualization. Users can explore plants in a virtual environment, interact with plant models, learn about their medicinal benefits, and join guided learning tours.
 
 ## Proposed Solution / Architecture Diagram
 
+<img width="682" height="718" alt="image" src="https://github.com/user-attachments/assets/ba672400-b55f-4b88-8243-8470339307b2" />
+
 
 ## Use Cases
+<img width="939" height="486" alt="image" src="https://github.com/user-attachments/assets/a3beff9d-b7a1-47ac-b3ef-fc2a1c9c4777" />
 
 
 ## Technology Stack
+<img width="700" height="381" alt="image" src="https://github.com/user-attachments/assets/b41fc931-b5a5-41c2-bc4a-8e647e706107" />
+
 
 
 ## Dependencies
+🔹 Software & Libraries React.js, Three.js or Babylon.js
 
+Node.js, Express.js
+
+MongoDB driver or Mongoose
+
+AWS SDK (if using S3), or Firebase SDK
+
+React Router, Axios, Framer Motion (for UI/UX)
+
+Multer (for file upload in Node backend)
+
+Cloudinary (optional for image hosting)
+
+🔹 Hardware / External 3D model design software (Blender)
+
+High-quality audio/video equipment (for content creation)
+
+Cloud hosting accounts (AWS, Firebase, etc.)
+
+🔹 Human Resource Frontend Developer
+
+Backend Developer
+
+3D Modeler / Multimedia Creator
+
+Content Writer (for plant data and AYUSH info)
+
+UI/UX Designer
